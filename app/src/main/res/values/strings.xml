@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">this my room</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">kosong:V</string>
+    <string name="add_word">Add word</string>
+</resources>
